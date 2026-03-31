@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+ultralytics
+opencv-python
+numpy
+matplotlib
+pypcd4
+requests
+Pillow
